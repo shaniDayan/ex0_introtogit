@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: red 
+Favorite food: pizza
+Favorite musician/band: meshina 
+Favorite movie: interstellar
+Requested grade in the course: 90 
